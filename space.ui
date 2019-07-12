@@ -1,0 +1,18 @@
+<ui version="4.0" >
+ <class>space</class>
+ <widget class="space" name="space" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>space</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

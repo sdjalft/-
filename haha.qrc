@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>title.jpg</file>
+        <file>background1.jpg</file>
+        <file>biaoti.png</file>
+        <file>mission1.png</file>
+        <file>bullet_1.png</file>
+        <file>bullet_2.png</file>
+        <file>bullet_5.png</file>
+        <file>bullet_7.png</file>
+        <file>bullet_8.png</file>
+        <file>gameover.png</file>
+    </qresource>
+    <qresource prefix="/image/playerplane">
+        <file>playerplane.png</file>
+    </qresource>
+    <qresource prefix="/image/LittleEnemyPlane">
+        <file>LittleEnemyPlane1.png</file>
+        <file>LittleEnemyPlane2.png</file>
+        <file>LittleEnemyPlane3.png</file>
+        <file>LittleEnemyPlane4.png</file>
+        <file>LittleEnemyPlane5.png</file>
+    </qresource>
+</RCC>
